@@ -17,6 +17,11 @@ Don't forget to put '.' after the copied address, otherwise, just go to the crea
 
 :::
 
+Install the dependencies
+```js
+npm install
+```
+
 ### Running Up
 
 Now run the following command to build the server
