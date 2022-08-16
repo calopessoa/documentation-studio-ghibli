@@ -7,7 +7,7 @@ title: Routes Used
 This route is used to get all the 22 animations films from Studio Ghibli:
 
 ```js
-'http://localhost:3000/movies'
+'http://localhost:3001/movies'
 ```
 
 ![Example banner](../static/img/getAll.png)
