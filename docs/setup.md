@@ -27,7 +27,7 @@ npm install
 Now run development server
 
 ```js
-npm run build
+npm run dev
 ```
 You should get this response:
 ![Example banner](../static/img/buildrunning.png)
