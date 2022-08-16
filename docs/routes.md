@@ -27,19 +27,19 @@ Since the backend is not yet deployed, note that your localhost is need to test 
 This route is used to get the first pagination of 10 films from Studio Ghibli:
 
 ```js
-'http://localhost:3000/movies/first'
+'http://localhost:3001/movies/first'
 ```
 
 ### Get Page 2
 This route is used to get the second pagination of 10 films from Studio Ghibli:
 
 ```js
-'http://localhost:3000/movies/second'
+'http://localhost:3001/movies/second'
 ```
 
 ### Get Page 3
 This route is used to get the last pagination of films from Studio Ghibli:
 
 ```js
-'http://localhost:3000/movies/third'
+'http://localhost:3001/movies/third'
 ```
