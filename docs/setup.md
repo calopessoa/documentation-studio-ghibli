@@ -5,17 +5,17 @@ title: Setting Up
 
 ### Getting Started
 
-First of all, create an empty folder and clone the following repository in order to access the databse:
+First of all, clone the following repository in order to access the databse:
 
 ```js
-git clone 'https://github.com/calopessoa/studio-ghibli-heroku-backend'.
+git clone 'git@github.com:calopessoa/studio-ghibli-catalog.git'
+cd studio-ghibli-catalog
 ```
+Then, move to the backend folder and install dependencies
 
-:::info
-
-Don't forget to put '.' after the copied address, otherwise, just go to the created folder, using: "cd studio-ghibli-heroku-backend"
-
-:::
+```js
+cd backend
+```
 
 Install dependencies
 ```js
